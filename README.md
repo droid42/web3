@@ -22,3 +22,14 @@
 
 * https://github.com/ipfs-shipyard
 * https://github.com/ipfs-shipyard/ipfs-github-action
+
+## IPFS Local
+
+Connect to webui
+
+Open Tunnel
+```
+ssh pi@192.168.178.51 -L 5001:localhost:5001
+```
+
+http://localhost:5001/webui
