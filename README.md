@@ -9,6 +9,10 @@
 * https://github.com/ipfs/kubo
 * https://github.com/ipfs/js-ipfs
 
+## IPFS Shotcomings
+
+* https://medium.com/web-design-web-developer-magazine/pinata-is-not-a-viable-long-term-solution-for-facilitating-decentralized-nft-file-storage-on-ipfs-f27896da2ea5
+
 ## IPFS Tools
 
 * https://github.com/ipfs-shipyard
