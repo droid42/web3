@@ -8,3 +8,8 @@
 * https://github.com/claudiobizzotto/ipfs-rpi
 * https://github.com/ipfs/kubo
 * https://github.com/ipfs/js-ipfs
+
+## IPFS Tools
+
+* https://github.com/ipfs-shipyard
+* https://github.com/ipfs-shipyard/ipfs-github-action
